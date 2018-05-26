@@ -1,2 +1,2 @@
-# GitProjects
-All projects, practice codes etc
+# GitProjects -- repository name
+All projects, practice codes etc - additional info
